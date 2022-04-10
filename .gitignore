@@ -1,4 +1,4 @@
 config.json
 /assets
 /.vscode
-/output
+/output/*
